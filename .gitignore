@@ -1,0 +1,17 @@
+private/
+app/
+cubism/
+*.apk
+*.aab
+*.aar
+*.moc3
+*.psd
+*.cmo3
+*.can3
+*.keystore
+*.jks
+.env*
+*.db
+*.log
+local.properties
+__pycache__/
